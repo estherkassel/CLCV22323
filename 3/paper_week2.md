@@ -35,9 +35,17 @@ A - Pleiades provides several alternate representations for each of their Places
 ## Orbis
 
 - Permanence and sustainability
+
+A - Based on the About page, this website has been updated from its previous version and is currently supported by Stanford University as well as non-Classicist IT experts; although the sustainability and permanence of the website depends on the university’s ability to support it, it seems to be a well-maintained website and simulation. 
   
 - Openness or restriction of their data
-  
+
+A - The data provided is in the form of a map simulation, which is open and does not require an account to access. 
+
 - Functionality of their interface and interaction with their data
+
+B - The map simulation functions fairly well, with the exception of a page that does not scroll; most users will be able to navigate the page easily, especially after the tutorial and reading the About page. 
   
 - Connectivity across resources (under the principles of Linked Open Data)
+
+C - The ability to export the information is limited; a user is able to download a map (without the terrain) in a vector format to use in either Inkscape or Adobe Illustrator. 
