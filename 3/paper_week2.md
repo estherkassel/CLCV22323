@@ -16,4 +16,20 @@ While variable, parameter, and argument are distinct terms, they do overlap in a
 
 ## Pleiades
 
+- permanence and sustainability
+  
+- openness or restriction of their data
+  
+- functionality of their interface and interaction with their data
+  
+- connectivity across resources (under the principles of Linked Open Data)
+
 ## Orbis
+
+- permanence and sustainability
+  
+- openness or restriction of their data
+  
+- functionality of their interface and interaction with their data
+  
+- connectivity across resources (under the principles of Linked Open Data)
