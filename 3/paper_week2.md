@@ -30,6 +30,8 @@ A - While there is the possibility of creating an account for Pleiades for the p
   
 - Connectivity across resources (under the principles of Linked Open Data)
 
+A - Pleiades provides several alternate representations for each of their Places page, including Atom, JSON, KML, RDF+XML, and Turtle. 
+
 ## Orbis
 
 - Permanence and sustainability
