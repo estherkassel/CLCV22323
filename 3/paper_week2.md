@@ -17,10 +17,16 @@ While variable, parameter, and argument are distinct terms, they do overlap in a
 ## Pleiades
 
 - Permanence and sustainability
-  
+
+A - This website is supported by ancient world institutions at NYU and UNC as well as individual contributors and seems to be updated often (with many of their pages updated in 2023). I believe that the contribution and support of both universities and individuals support the excellent permanence and sustainability of this website. 
+
 - Openness or restriction of their data
-  
+
+A - While there is the possibility of creating an account for Pleiades for the purpose of contributing, there is no restriction to accessing materials on the website. On the “Participate” page, the editors make it clear that they have no intention of restricting their data and articulate the steps for joining clearly. 
+
 - Functionality of their interface and interaction with their data
+
+
   
 - Connectivity across resources (under the principles of Linked Open Data)
 
