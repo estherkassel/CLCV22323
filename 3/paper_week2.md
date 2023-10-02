@@ -26,8 +26,8 @@ A - While there is the possibility of creating an account for Pleiades for the p
 
 - Functionality of their interface and interaction with their data
 
+B - The search function, particularly the advanced search function, and linked sources are easy to access and maneuver; the website also provides interactive maps, descriptions, and links to community-provided photos. However, depending on the categorization, certain places can be difficult to find, and with the lack of photos and low-quality maps, users may not be provided with complete information. 
 
-  
 - Connectivity across resources (under the principles of Linked Open Data)
 
 A - Pleiades provides several alternate representations for each of their Places page, including Atom, JSON, KML, RDF+XML, and Turtle. 
