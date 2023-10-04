@@ -68,7 +68,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": 18,
    "id": "64afa51c",
    "metadata": {},
    "outputs": [],
@@ -167,24 +167,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 19,
    "id": "51e7c40f",
    "metadata": {},
    "outputs": [
     {
-     "ename": "TypeError",
-     "evalue": "list.reverse() takes no arguments (1 given)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[0;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
-      "Cell \u001b[0;32mIn[16], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m mylist\u001b[38;5;241m.\u001b[39mreverse(\u001b[38;5;28;01mTrue\u001b[39;00m) \n\u001b[1;32m      2\u001b[0m \u001b[38;5;28mprint\u001b[39m(mylist)\n",
-      "\u001b[0;31mTypeError\u001b[0m: list.reverse() takes no arguments (1 given)"
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "['Ted', 'Nick', 'Maria', 'John', 'John', 'Catherine', 'Albert']\n"
      ]
     }
    ],
    "source": [
-    "mylist.reverse(True) \n",
+    "mylist.sort(reverse=True)\n",
     "print(mylist)"
    ]
   },
