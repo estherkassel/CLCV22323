@@ -22,3 +22,21 @@ Connectivity Across Resources (Under the Principles of Linked Open Data)
 
 - C - Available in a machine-readable structure but only available in XML download format for texts
 
+## Papyri.info
+
+Permanence and Sustainability
+
+- B - Links to various other papyri databases and online resources on the homepage, but their blog indicates that the last update occurred in 2012
+
+Openness or Restriction of their Data
+
+- A - Clearly states that all works are under a Creative Commons license; there is no fee to access any of the works 
+
+Functionality of their Interface and Interaction with their Data
+
+- C - Extensive search function for every work, not many visualizations 
+
+Connectivity Across Resources (Under the Principles of Linked Open Data)
+
+- B - At the bottom of each text, the site editors have clearly added a “Linked Data” that includes RDF but not SPARQL; provides canonical URIs for each piece of content 
+
