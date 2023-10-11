@@ -7,14 +7,18 @@ Data normalization is the cohesive organization of data by arranging it on a tab
 ## Perseus Digital Library 
 
 Permanence and Sustainability
-A - Clear maintenance based on the recent homepage and blog updates, recent updates indicate a third-party depository for Greek and Latin: Scaife Viewer
+
+- A - Clear maintenance based on the recent homepage and blog updates, recent updates indicate a third-party depository for Greek and Latin: Scaife Viewer
 
 Openness or Restriction of their Data
-A - At the bottom of each text, there is a Creative Commons tag; there is no fee to view any of the material on the website 
+
+- A - At the bottom of each text, there is a Creative Commons tag; there is no fee to view any of the material on the website 
 
 Functionality of their Interface and Interaction with their Data
-A - Perseus includes opportunities to “search the work” based on keywords and phrases for all texts, includes downloadable images with descriptions 
+
+- A - Perseus includes opportunities to “search the work” based on keywords and phrases for all texts, includes downloadable images with descriptions 
 
 Connectivity Across Resources (Under the Principles of Linked Open Data)
-C - Available in a machine-readable structure but only available in XML download format for texts
+
+- C - Available in a machine-readable structure but only available in XML download format for texts
 
