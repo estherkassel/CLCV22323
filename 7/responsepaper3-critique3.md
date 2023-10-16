@@ -18,7 +18,7 @@ B - The Thesaurus organizes itself by volumes and lemmas and provides links to a
 
 C - The content is downloadable as a PDF file, but because the website is focused on TLL specifically and is supported by its publisher, the only other linked website is the TLL Open Access website supported by the Bavarian Academy of Sciences and Humanities. 
 
-# Digital Maps of the Ancient World
+## Digital Maps of the Ancient World
 
 - Permanence and Sustainability
 
