@@ -1,4 +1,6 @@
-# Thesaurus Linguae Latinae (TLL)
+# Digital Critiques 3
+
+## Thesaurus Linguae Latinae (TLL)
 
 - Permanence and Sustainability
 
