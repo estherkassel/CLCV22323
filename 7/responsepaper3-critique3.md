@@ -1,3 +1,7 @@
+# Response Paper 3
+A historical gazetteer is essentially a place-locator used by historical researchers to locate historical places and areas; however, a gazetteer is not a map, rather, the article describes it as a “complement to a map.” While not all gazetteers must or can provide the exact coordinates of a place (some places may be “lost” in history), they are required to provide the name of the place, a location or footprint, and a feature type, which is a data set from some data source. An example of a historical gazetter is Pleiades. Unlike its predecessor, Barrington Atlas, which was a physical resource transferred almost exactly into a digital copy, Pleiades was designed with a “wiki approach” in mind, meaning users have the ability to update places themselves. Further, the creators of Pleiades built the website with the intention of providing more conceptual ideas about places instead of just maps. While the website does provide geological locations of places, it is not the focus; places are treated as conceptual entities with accurate coordinates as a bonus. Pleiades’ platform also allows more flexibility than Barrington Atlas: it has the ability to indicate uncertainties of places, relationships between places, change over time (such as name change), and link information to other resources. 
+
+
 # Digital Critiques 3
 
 ## Thesaurus Linguae Latinae (TLL)
