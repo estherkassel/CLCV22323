@@ -1,5 +1,7 @@
 # Response Paper
 
+Geographic Information Systems (GIS) are databases used by geographers and others that use geographical resources to analyze information via various technologies that are stored in the database. A GIS is able to synthesize information more readily than traditional geographical techniques, however, the database has the ability to also support traditional methods through data integration. Overall, a GIS is able to input, store, transform, and report data for various geographical topics, including archeological research. For example, in the paper Cult and Crisis: A GIS Approach to the Sacred Landscape of Hellenistic Attica, a GIS is used to map sites in Attika that indicate hindered cult practice as well as military landscapes. In this context, GIS is used as a supplementary method of research; the goal of the researchers is that, after submitting the textual data into a GIS, it will aid them in developing more specific, object-based inquiries about cults in Attika that were affected by military presence in the 3rd century. However, the researchers have identified certain limitations when using GIS technology; for one, there is an unknown number of objects at the sites that they are investigating, and second, not all of the archeological data that could aid the project is published. Despite limitations, the study in the paper concluded that the GIS provided consistent and useful information.
+
 # Digital Critiques
 
 ## The Digital Dead Sea Scrolls
